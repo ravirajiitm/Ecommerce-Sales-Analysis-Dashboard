@@ -1,6 +1,8 @@
 
 # Ecommerce Sales Analysis Dashboard
 
+![ecommerce_excel_project](https://github.com/ravirajiitm/Ecommerce-Sales-Analysis-Dashboard/assets/110409857/5a7f71f2-9f68-431d-a69d-f5507e2b23d9)
+
 ## Overview
 
 This repository contains the development of a dynamic Excel dashboard for Ecommerce sales analysis. The dashboard provides detailed insights into sales, profit, quantity, and order details. Key features include calculated fields, layouting, custom charts, custom maps, YoY calculations, and sparklines.
